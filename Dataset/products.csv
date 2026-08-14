@@ -1,0 +1,201 @@
+product_id,product_name,category,subcategory,unit_price,cost_price
+1,Furniture Product 001,Home & Kitchen,Furniture,45769.48,31579.71
+2,Audio Product 002,Electronics,Audio,42946.4,31183.15
+3,Sportswear Product 003,Sports,Sportswear,2440.7,2121.16
+4,Footwear Product 004,Fashion,Footwear,4600.28,2808.01
+5,Men Product 005,Fashion,Men,32053.9,25205.7
+6,Sportswear Product 006,Sports,Sportswear,15719.14,13508.57
+7,Men Product 007,Fashion,Men,32012.11,19479.72
+8,Accessories Product 008,Fashion,Accessories,16654.82,11970.24
+9,Men Product 009,Fashion,Men,26670.95,18395.65
+10,Laptops Product 010,Electronics,Laptops,34430.26,21520.98
+11,Fitness Product 011,Sports,Fitness,10297.51,8205.45
+12,Men Product 012,Fashion,Men,8809.95,6022.02
+13,Smartphones Product 013,Electronics,Smartphones,41294.2,25913.97
+14,Decor Product 014,Home & Kitchen,Decor,28958.7,23191.11
+15,Men Product 015,Fashion,Men,13558.11,8312.87
+16,Sportswear Product 016,Sports,Sportswear,17752.56,13521.68
+17,Footwear Product 017,Fashion,Footwear,17031.55,10386.16
+18,Appliances Product 018,Home & Kitchen,Appliances,17846.96,13077.71
+19,Smartphones Product 019,Electronics,Smartphones,21391.84,13553.16
+20,Fitness Product 020,Sports,Fitness,27803.61,20544.76
+21,Men Product 021,Fashion,Men,873.24,678.68
+22,Smartphones Product 022,Electronics,Smartphones,20749.3,13342.7
+23,Team Sports Product 023,Sports,Team Sports,45229.71,33171.58
+24,Audio Product 024,Electronics,Audio,29412.47,23370.62
+25,Haircare Product 025,Beauty,Haircare,28894.26,18661.58
+26,Cookware Product 026,Home & Kitchen,Cookware,13443.96,8164.02
+27,Appliances Product 027,Home & Kitchen,Appliances,52025.44,33467.14
+28,Decor Product 028,Home & Kitchen,Decor,34955.61,27873.39
+29,Team Sports Product 029,Sports,Team Sports,40427.0,26547.06
+30,Cookware Product 030,Home & Kitchen,Cookware,8599.09,6543.9
+31,Cookware Product 031,Home & Kitchen,Cookware,31665.76,20188.88
+32,Accessories Product 032,Fashion,Accessories,30436.6,23746.23
+33,Haircare Product 033,Beauty,Haircare,15090.93,11906.4
+34,Skincare Product 034,Beauty,Skincare,15395.87,12046.3
+35,Team Sports Product 035,Sports,Team Sports,3103.89,2414.99
+36,Appliances Product 036,Home & Kitchen,Appliances,32323.45,22539.27
+37,Laptops Product 037,Electronics,Laptops,8747.32,5369.88
+38,Footwear Product 038,Fashion,Footwear,33762.69,23849.19
+39,Personal Care Product 039,Beauty,Personal Care,42117.5,31399.21
+40,Footwear Product 040,Fashion,Footwear,12159.56,8238.59
+41,Haircare Product 041,Beauty,Haircare,790.54,485.66
+42,Accessories Product 042,Fashion,Accessories,17076.73,10356.57
+43,Outdoor Product 043,Sports,Outdoor,25517.07,16194.84
+44,Women Product 044,Fashion,Women,23585.72,15906.27
+45,Fitness Product 045,Sports,Fitness,19474.91,14926.68
+46,Footwear Product 046,Fashion,Footwear,6300.09,4974.94
+47,Furniture Product 047,Home & Kitchen,Furniture,7728.9,5678.8
+48,Furniture Product 048,Home & Kitchen,Furniture,32151.32,26850.03
+49,Personal Care Product 049,Beauty,Personal Care,33529.65,25408.04
+50,Decor Product 050,Home & Kitchen,Decor,37071.05,25558.39
+51,Furniture Product 051,Home & Kitchen,Furniture,42529.03,25780.95
+52,Team Sports Product 052,Sports,Team Sports,43157.07,28352.95
+53,Decor Product 053,Home & Kitchen,Decor,41659.1,33419.74
+54,Smartphones Product 054,Electronics,Smartphones,28353.11,20625.73
+55,Audio Product 055,Electronics,Audio,45214.9,27981.99
+56,Laptops Product 056,Electronics,Laptops,31457.37,25198.16
+57,Footwear Product 057,Fashion,Footwear,1412.7,1007.72
+58,Furniture Product 058,Home & Kitchen,Furniture,38058.28,25806.73
+59,Outdoor Product 059,Sports,Outdoor,542.46,449.15
+60,Sportswear Product 060,Sports,Sportswear,42396.67,32301.08
+61,Women Product 061,Fashion,Women,23045.67,15415.47
+62,Cookware Product 062,Home & Kitchen,Cookware,3498.04,2588.46
+63,Outdoor Product 063,Sports,Outdoor,14212.89,11541.32
+64,Footwear Product 064,Fashion,Footwear,23845.3,18550.42
+65,Makeup Product 065,Beauty,Makeup,26891.02,17371.6
+66,Decor Product 066,Home & Kitchen,Decor,7626.75,4790.8
+67,Furniture Product 067,Home & Kitchen,Furniture,32514.47,24316.24
+68,Cookware Product 068,Home & Kitchen,Cookware,731.88,445.97
+69,Team Sports Product 069,Sports,Team Sports,20234.72,14230.92
+70,Smartphones Product 070,Electronics,Smartphones,9185.74,6284.37
+71,Footwear Product 071,Fashion,Footwear,40831.91,27600.85
+72,Team Sports Product 072,Sports,Team Sports,33843.05,28580.48
+73,Team Sports Product 073,Sports,Team Sports,32339.91,25116.78
+74,Smartphones Product 074,Electronics,Smartphones,9594.57,7681.37
+75,Audio Product 075,Electronics,Audio,7343.48,4963.01
+76,Skincare Product 076,Beauty,Skincare,1551.17,1184.42
+77,Fitness Product 077,Sports,Fitness,45039.66,34606.01
+78,Smartphones Product 078,Electronics,Smartphones,9475.8,7087.75
+79,Makeup Product 079,Beauty,Makeup,36534.8,27422.6
+80,Footwear Product 080,Fashion,Footwear,26747.7,17001.58
+81,Team Sports Product 081,Sports,Team Sports,15504.13,10323.74
+82,Personal Care Product 082,Beauty,Personal Care,26994.56,16424.06
+83,Accessories Product 083,Electronics,Accessories,10948.99,7094.17
+84,Team Sports Product 084,Sports,Team Sports,26499.83,18834.69
+85,Decor Product 085,Home & Kitchen,Decor,30473.88,21477.83
+86,Skincare Product 086,Beauty,Skincare,25389.28,15828.52
+87,Team Sports Product 087,Sports,Team Sports,3216.87,2020.65
+88,Accessories Product 088,Fashion,Accessories,22349.99,19247.28
+89,Makeup Product 089,Beauty,Makeup,2812.94,2146.97
+90,Furniture Product 090,Home & Kitchen,Furniture,42489.82,31973.73
+91,Decor Product 091,Home & Kitchen,Decor,37325.93,32163.05
+92,Fitness Product 092,Sports,Fitness,38084.76,24917.71
+93,Laptops Product 093,Electronics,Laptops,33594.98,23072.22
+94,Footwear Product 094,Fashion,Footwear,30089.86,25223.38
+95,Skincare Product 095,Beauty,Skincare,7858.6,4862.27
+96,Accessories Product 096,Electronics,Accessories,33785.82,27960.08
+97,Furniture Product 097,Home & Kitchen,Furniture,9014.15,6756.26
+98,Cookware Product 098,Home & Kitchen,Cookware,35512.2,29055.35
+99,Footwear Product 099,Fashion,Footwear,51437.59,34440.34
+100,Smartphones Product 100,Electronics,Smartphones,46791.69,31797.77
+101,Cookware Product 101,Home & Kitchen,Cookware,36836.08,23174.31
+102,Outdoor Product 102,Sports,Outdoor,25753.85,18713.42
+103,Smartphones Product 103,Electronics,Smartphones,33485.32,27600.69
+104,Laptops Product 104,Electronics,Laptops,17663.08,13692.09
+105,Laptops Product 105,Electronics,Laptops,28367.27,21725.82
+106,Men Product 106,Fashion,Men,49815.63,30460.52
+107,Laptops Product 107,Electronics,Laptops,13631.76,11613.94
+108,Skincare Product 108,Beauty,Skincare,22454.46,13902.65
+109,Team Sports Product 109,Sports,Team Sports,20240.83,12387.11
+110,Cookware Product 110,Home & Kitchen,Cookware,13452.58,9868.55
+111,Men Product 111,Fashion,Men,41282.72,31025.95
+112,Furniture Product 112,Home & Kitchen,Furniture,22042.94,13769.39
+113,Audio Product 113,Electronics,Audio,20936.8,17216.75
+114,Personal Care Product 114,Beauty,Personal Care,24883.58,19251.89
+115,Personal Care Product 115,Beauty,Personal Care,2799.41,2141.8
+116,Makeup Product 116,Beauty,Makeup,16741.69,12058.55
+117,Women Product 117,Fashion,Women,5573.85,4770.39
+118,Skincare Product 118,Beauty,Skincare,47968.75,33364.89
+119,Laptops Product 119,Electronics,Laptops,20465.15,13605.25
+120,Appliances Product 120,Home & Kitchen,Appliances,14551.18,9845.51
+121,Women Product 121,Fashion,Women,43178.12,27010.72
+122,Decor Product 122,Home & Kitchen,Decor,7953.1,6651.22
+123,Fitness Product 123,Sports,Fitness,44154.33,27477.69
+124,Sportswear Product 124,Sports,Sportswear,16664.22,10613.0
+125,Team Sports Product 125,Sports,Team Sports,41076.3,28842.02
+126,Skincare Product 126,Beauty,Skincare,4890.52,3002.88
+127,Women Product 127,Fashion,Women,16509.71,12430.59
+128,Haircare Product 128,Beauty,Haircare,39089.34,33088.64
+129,Men Product 129,Fashion,Men,39450.63,27690.39
+130,Skincare Product 130,Beauty,Skincare,1826.9,1447.49
+131,Outdoor Product 131,Sports,Outdoor,935.86,743.9
+132,Furniture Product 132,Home & Kitchen,Furniture,47935.67,29976.32
+133,Women Product 133,Fashion,Women,18726.1,11349.63
+134,Accessories Product 134,Electronics,Accessories,24171.94,18922.98
+135,Laptops Product 135,Electronics,Laptops,25804.56,18158.91
+136,Fitness Product 136,Sports,Fitness,48294.58,33589.15
+137,Team Sports Product 137,Sports,Team Sports,11644.84,7598.62
+138,Furniture Product 138,Home & Kitchen,Furniture,5148.37,3556.74
+139,Makeup Product 139,Beauty,Makeup,36696.68,29285.99
+140,Accessories Product 140,Electronics,Accessories,19515.46,16286.47
+141,Smartphones Product 141,Electronics,Smartphones,9199.37,7123.7
+142,Haircare Product 142,Beauty,Haircare,32662.03,26269.1
+143,Personal Care Product 143,Beauty,Personal Care,8499.37,5862.89
+144,Sportswear Product 144,Sports,Sportswear,43009.16,29179.63
+145,Makeup Product 145,Beauty,Makeup,5674.44,4913.65
+146,Women Product 146,Fashion,Women,4466.06,3360.78
+147,Smartphones Product 147,Electronics,Smartphones,51028.85,32093.05
+148,Personal Care Product 148,Beauty,Personal Care,30748.98,25059.56
+149,Skincare Product 149,Beauty,Skincare,33795.66,22972.6
+150,Cookware Product 150,Home & Kitchen,Cookware,23255.73,16675.86
+151,Men Product 151,Fashion,Men,15178.52,11167.29
+152,Audio Product 152,Electronics,Audio,47494.55,33464.72
+153,Footwear Product 153,Fashion,Footwear,34143.04,28293.29
+154,Furniture Product 154,Home & Kitchen,Furniture,24420.47,17003.35
+155,Skincare Product 155,Beauty,Skincare,51623.31,31741.0
+156,Appliances Product 156,Home & Kitchen,Appliances,9479.93,7644.51
+157,Sportswear Product 157,Sports,Sportswear,26053.23,21033.28
+158,Sportswear Product 158,Sports,Sportswear,17301.25,12533.25
+159,Cookware Product 159,Home & Kitchen,Cookware,25532.77,18367.96
+160,Women Product 160,Fashion,Women,24067.85,15003.32
+161,Footwear Product 161,Fashion,Footwear,45736.6,32094.43
+162,Accessories Product 162,Electronics,Accessories,16150.96,10452.3
+163,Cookware Product 163,Home & Kitchen,Cookware,1143.45,929.36
+164,Smartphones Product 164,Electronics,Smartphones,54714.33,33160.43
+165,Decor Product 165,Home & Kitchen,Decor,6409.81,4007.45
+166,Makeup Product 166,Beauty,Makeup,16527.13,11795.5
+167,Footwear Product 167,Fashion,Footwear,1520.89,1085.75
+168,Footwear Product 168,Fashion,Footwear,9316.31,6790.83
+169,Team Sports Product 169,Sports,Team Sports,42129.24,25810.9
+170,Personal Care Product 170,Beauty,Personal Care,31500.56,21847.77
+171,Audio Product 171,Electronics,Audio,22643.94,19194.96
+172,Makeup Product 172,Beauty,Makeup,35356.68,25142.7
+173,Accessories Product 173,Electronics,Accessories,31442.32,23617.18
+174,Skincare Product 174,Beauty,Skincare,3057.35,2305.87
+175,Laptops Product 175,Electronics,Laptops,7528.69,6048.77
+176,Smartphones Product 176,Electronics,Smartphones,42034.94,27372.84
+177,Haircare Product 177,Beauty,Haircare,7521.62,6239.66
+178,Skincare Product 178,Beauty,Skincare,16239.3,13846.95
+179,Cookware Product 179,Home & Kitchen,Cookware,47254.91,33663.28
+180,Decor Product 180,Home & Kitchen,Decor,6088.9,4741.99
+181,Accessories Product 181,Fashion,Accessories,20017.36,13578.43
+182,Decor Product 182,Home & Kitchen,Decor,25258.66,19389.87
+183,Footwear Product 183,Fashion,Footwear,2591.66,2148.64
+184,Skincare Product 184,Beauty,Skincare,46019.64,30976.3
+185,Haircare Product 185,Beauty,Haircare,11835.89,7935.36
+186,Sportswear Product 186,Sports,Sportswear,13953.35,10645.08
+187,Personal Care Product 187,Beauty,Personal Care,50291.33,31294.81
+188,Laptops Product 188,Electronics,Laptops,6070.27,4430.86
+189,Laptops Product 189,Electronics,Laptops,36176.21,30964.37
+190,Makeup Product 190,Beauty,Makeup,52000.43,31739.8
+191,Audio Product 191,Electronics,Audio,39507.0,33259.82
+192,Cookware Product 192,Home & Kitchen,Cookware,906.98,552.84
+193,Accessories Product 193,Fashion,Accessories,1419.66,1224.83
+194,Outdoor Product 194,Sports,Outdoor,14529.69,9234.19
+195,Men Product 195,Fashion,Men,39570.05,27725.07
+196,Outdoor Product 196,Sports,Outdoor,8761.57,5313.76
+197,Makeup Product 197,Beauty,Makeup,20725.99,15518.53
+198,Personal Care Product 198,Beauty,Personal Care,44779.95,28786.42
+199,Furniture Product 199,Home & Kitchen,Furniture,40427.21,31106.49
+200,Footwear Product 200,Fashion,Footwear,20741.6,14304.56
